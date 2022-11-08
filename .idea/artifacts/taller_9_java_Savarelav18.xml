@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="taller-9-java-Savarelav18">
+    <output-path>$PROJECT_DIR$/out/artifacts/taller_9_java_Savarelav18</output-path>
+    <root id="root">
+      <element id="archive" name="taller_9_java_Savarelav18.jar">
+        <element id="module-output" name="taller-9-java-Savarelav18" />
+      </element>
+    </root>
+  </artifact>
+</component>
